@@ -7,5 +7,10 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
-   }
+   },
+  "rise": {
+    "enable_chalkboard": true,
+    "scroll": true,
+    "transition": "none"
+  }
 }
